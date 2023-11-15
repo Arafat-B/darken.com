@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/darken.com/static/css/main.eeda8fba.css",
+    "main.js": "/darken.com/static/js/main.d3e6f125.js",
+    "static/media/mobileapp.png": "/darken.com/static/media/mobileapp.231cf125fbd9534c01a7.png",
+    "static/media/project1.png": "/darken.com/static/media/project1.6f6e132f6afcaeea647f.png",
+    "static/media/logo.svg": "/darken.com/static/media/logo.5b28b5accd2f4aec9a6b3d74b59e8df8.svg",
+    "index.html": "/darken.com/index.html",
+    "main.eeda8fba.css.map": "/darken.com/static/css/main.eeda8fba.css.map",
+    "main.d3e6f125.js.map": "/darken.com/static/js/main.d3e6f125.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeda8fba.css",
+    "static/js/main.d3e6f125.js"
+  ]
+}
